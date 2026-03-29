@@ -21,12 +21,14 @@ Currently working on TelefonPazar — a second-hand phone marketplace built with
 | Project | Description | Link |
 |---------|-------------|------|
 | TelefonPazar | Second-hand phone marketplace — .NET MAUI + ASP.NET Core API + SQL Server | Coming soon |
+| Kanban Board | Drag and drop task board inspired by Trello | [Live](https://bunyaminkeremon.github.io/kanban-board/) |
 | Finance Tracker | Personal finance manager with charts and filtering | [Live](https://bunyaminkeremon.github.io/finance-tracker/) |
 | Movie Search | Movie and TV show search using TMDB API | [Live](https://bunyaminkeremon.github.io/movie-search/) |
 | Quiz App | Timed quiz with multiple categories and scoring | [Live](https://bunyaminkeremon.github.io/quiz-app/) |
 | Weather App | Weather app with animated backgrounds | [Live](https://bunyaminkeremon.github.io/weather-app/) |
 | Stock Tracker | Inventory management with filtering and localStorage | [Live](https://bunyaminkeremon.github.io/stock-tracker/) |
 | Currency Converter | Live currency converter using Frankfurter API | [Live](https://bunyaminkeremon.github.io/currency-converter/) |
+| Password Generator | Customizable password generator with strength meter | [Live](https://bunyaminkeremon.github.io/password-generator/) |
 | Calculator | Calculator built with vanilla JavaScript | [Live](https://bunyaminkeremon.github.io/calculator/) |
 
 ### Get in touch
