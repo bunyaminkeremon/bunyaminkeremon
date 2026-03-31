@@ -44,6 +44,13 @@ Currently working on ONCEP — a second-hand phone marketplace built with .NET M
 | Password Generator | Password generator with strength meter | [Live](https://bunyaminkeremon.github.io/password-generator/) |
 | Calculator | Calculator built with vanilla JavaScript | [Live](https://bunyaminkeremon.github.io/calculator/) |
 
+
+### Certifications
+
+- **MCSD — Software Development Specialist** | Arı Bilgi IT Academy (MEB Certified) — 250 hours | Feb 2026
+- **Financial Investment Specialist** | ENG Capital / ICCW | Mar 2026
+
+
 ### Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/bünyamin-kerem-ön-167576381/)
